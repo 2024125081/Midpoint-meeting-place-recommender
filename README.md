@@ -33,8 +33,3 @@ The project was developed through several stages including project planning, req
 - Classified functional and non-functional requirements
 - Performed object and interface analysis
 - Designed UML-based system structure
-
-
-hw2_2024125081_지성진.pdf
-hw3_2024125081_지성진.pdf
-README.md
