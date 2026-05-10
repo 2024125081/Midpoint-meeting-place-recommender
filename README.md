@@ -1,4 +1,40 @@
 # Midpoint-meeting-place-recommender
-A system that recommends a fair meeting location based on users' positions.
+
+## Project Overview
+This project is a software engineering team project for developing a fair meeting place recommendation system.
+The system calculates a midpoint location based on users’ positions and recommends nearby places such as cafes or restaurants to help users choose a balanced meeting location.
+The project was developed through several stages including project planning, requirement definition, requirement analysis, and system modeling.
+
+
+## Main Features
+- User location input
+- Midpoint calculation
+- Nearby place recommendation
+- Condition-based filtering
+- Place comparison feature
+- External map API connection
+
+
 ## Progress
--week 2: Repository structure has been organized and initial project definition document was reviewed and updated
+
+ HW1 - Project Definition
+- Defined project topic and development motivation
+- Organized core functions of the system
+- Analyzed similar systems and service ideas
+
+ HW2 - Project Management & Function Point Analysis
+- Created project management plan
+- Defined development environment and deliverables
+- Performed function point estimation
+- Organized repository structure and documentation format
+
+ HW3 - Requirement Analysis
+- Wrote software requirement analysis document
+- Classified functional and non-functional requirements
+- Performed object and interface analysis
+- Designed UML-based system structure
+
+
+hw2_2024125081_지성진.pdf
+hw3_2024125081_지성진.pdf
+README.md
