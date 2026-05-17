@@ -33,3 +33,10 @@ The project was developed through several stages including project planning, req
 - Classified functional and non-functional requirements
 - Performed object and interface analysis
 - Designed UML-based system structure
+
+
+ HW4 - Detailed Requirement Analysis
+- Expanded the requirement analysis document based on project features
+- Organized interface interactions between users and external systems
+- Added object relationship analysis using UML
+- Defined constrains and requirement traceability
