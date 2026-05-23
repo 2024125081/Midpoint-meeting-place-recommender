@@ -40,3 +40,9 @@ The project was developed through several stages including project planning, req
 - Organized interface interactions between users and external systems
 - Added object relationship analysis using UML
 - Defined constrains and requirement traceability
+
+
+ HW5 - Software Design
+ - Added software architecture design
+ - Organized module, interface and data design
+ - Updated the document based on previous requirement analysis
