@@ -46,3 +46,10 @@ The project was developed through several stages including project planning, req
  - Added software architecture design
  - Organized module, interface and data design
  - Updated the document based on previous requirement analysis
+
+ 
+ HW6 - Inspection Report
+ - Reviewed the software design document
+ - Found and organized issues related to design and documentation
+ - Recorded inspection results and defect information
+ - Updated project quality review documents
